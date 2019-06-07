@@ -152,8 +152,8 @@ var deleteTheBigNumbers = {
 
 //Code Here
 for(var key in deleteTheBigNumbers){
-  if deleteTheBigNumbers < 100
-}
+  if (deleteTheBigNumbers < 100)
+  }
 delete deleteTheBigNumbers
 
 
